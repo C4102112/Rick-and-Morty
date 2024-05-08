@@ -8,7 +8,7 @@
     </header>
     <section>
         <h2>Sobre Mim</h2>
-        <p>Olá, meu nome é Caio Vinicius. Eu sou estudante de T.I na Unimar. Eu tenho interesse em tudo que tem haver com Tecnologia.</p>
+        <p>Olá, meu nome é Caio Vinicius. Eu sou estudante de T.I na Unimar. Eu tenho interesse em tudo que tem a ver com Tecnologia.</p>
     </section>
     <section>
         <h2>Educação</h2>
